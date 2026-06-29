@@ -1,77 +1,47 @@
-# Shaurya Rajput
+# Shaurya Rajput Portfolio
 
-MBA - Artificial Intelligence & Data Science
+Professional portfolio hub for my Data Analytics, Business Intelligence, and Applied AI projects.
 
-## About Me
+## Positioning
 
-Aspiring Data Analyst and AI/ML Professional focused on solving business problems using Data Analytics, Machine Learning, SQL, Python, and Business Intelligence.
+MBA student specializing in Artificial Intelligence and Data Science, focused on converting business problems into data products: dashboards, SQL analytics, predictive models, and decision-support workflows.
 
-## Technical Skills
+## Core Skills
 
-- Python
-- SQL
-- PostgreSQL
-- Power BI
-- Machine Learning
-- Data Analytics
-- AWS
-- NLP
-- Data Visualization
+| Category | Skills |
+|---|---|
+| Data Analysis | Python, Pandas, NumPy, Excel |
+| Business Intelligence | Power BI, Tableau Desktop, dashboard storytelling |
+| Databases | SQL, reporting queries, analytical joins, KPI tables |
+| Machine Learning | Scikit-Learn, forecasting, segmentation, churn/risk scoring |
+| Cloud and Workflow | AWS fundamentals, Git, GitHub, documentation |
 
 ## Featured Projects
 
-### AI Retail Demand Forecasting & Inventory Optimization
-Forecast product demand and optimize inventory using machine learning and analytics.
-
-### Financial Risk Monitor
-Real-time financial intelligence system with anomaly detection and risk forecasting.
-
-### Job Market Intelligence Platform
-NLP-powered workforce analytics platform tracking hiring trends and skill demand.
+### Retail Demand Forecasting
+Forecasts product demand and supports inventory planning using Python, feature engineering, and BI-ready reporting.
 
 ### Customer Analytics 360
-Customer segmentation, churn prediction, and business intelligence dashboard.
+Analyzes customer value, retention risk, and segmentation for marketing and growth decisions.
 
-## Contact
-
-LinkedIn: # Shaurya Rajput
-
-MBA - Artificial Intelligence & Data Science
-
-## About Me
-
-Aspiring Data Analyst and AI/ML Professional focused on solving business problems using Data Analytics, Machine Learning, SQL, Python, and Business Intelligence.
-
-## Technical Skills
-
-- Python
-- SQL
-- PostgreSQL
-- Power BI
-- Machine Learning
-- Data Analytics
-- AWS
-- NLP
-- Data Visualization
-
-## Featured Projects
-
-### AI Retail Demand Forecasting & Inventory Optimization
-Forecast product demand and optimize inventory using machine learning and analytics.
+### Job Market Intelligence
+Tracks hiring demand, skill patterns, and salary insights using analytics and NLP-style text processing.
 
 ### Financial Risk Monitor
-Real-time financial intelligence system with anomaly detection and risk forecasting.
+Monitors financial exposure, transaction risk, and anomaly signals for operational decision support.
 
-### Job Market Intelligence Platform
-NLP-powered workforce analytics platform tracking hiring trends and skill demand.
+## Portfolio Standard
 
-### Customer Analytics 360
-Customer segmentation, churn prediction, and business intelligence dashboard.
+Every project is structured to show:
 
-## Contact
+- Business problem
+- Dataset and assumptions
+- Analytical pipeline
+- SQL or Python implementation
+- Dashboard-ready outputs
+- Actionable recommendations
 
-LinkedIn: https://www.linkedin.com/in/shauryarajput143/
+## Links
 
-GitHub: https://github.com/shaurya1234578-oss
-
-GitHub: https://github.com/shaurya1234578-oss
+- GitHub: [shaurya1234578-oss](https://github.com/shaurya1234578-oss)
+- LinkedIn: [Shaurya Rajput](https://www.linkedin.com/in/shauryarajput143/)
